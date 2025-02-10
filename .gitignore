@@ -41,4 +41,3 @@ bin/
 ### Mac OS ###
 .DS_Store
 .idea/
-src/main/java/org/study/Main.java
