@@ -1,7 +1,9 @@
 package main
 
-import "vk-algorithms/lists"
+import (
+	"vk-algorithms/arrays"
+)
 
 func main() {
-	lists.GetInput()
+	arrays.GetInput()
 }
