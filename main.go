@@ -1,9 +1,7 @@
 package main
 
-import (
-	"vk-algorithms/arrays"
-)
+import "vk-algorithms/search"
 
 func main() {
-	arrays.GetInput()
+	search.GetInput()
 }

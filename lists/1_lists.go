@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func GetInput() {
+func getInput() {
 	var count int
 	fmt.Scanln(&count)
 
